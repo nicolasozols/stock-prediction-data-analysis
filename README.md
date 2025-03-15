@@ -1,7 +1,7 @@
 # Data Analysis | Undertanding results from a Stock Price Prediction database
 
 ## Project goal:
-To understand the behavior and reliability of the predictions made by a Deep Neural Network model about Petrobras' (PETR4) stock price. 
+The objective of this data analysis is to understand the behavior and reliability of the predictions made by a Deep Neural Network model about Petrobras' (PETR4) stock price. 
 This project showcases my abilities at: 
 - Bringing relevant insights with data analysis 
 - Python
